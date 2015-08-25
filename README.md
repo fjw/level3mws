@@ -1,2 +1,6 @@
 # level3mws
-call Level 3 Media Web Services API
+
+Just a little Tool to use Level 3 Media Webservices and invalidate CDN caches per node.js.
+
+see example.js
+
